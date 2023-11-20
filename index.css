@@ -46,11 +46,11 @@ header{
 }
 
 .image-profile {
-    width: 40%;
+    width: 20%;
     height: 20% auto;
     display: flex;
     align-self: left;
-    border-radius: 50%;
+    border-radius: 50px;
     transition: 0.3s;
 }
 
